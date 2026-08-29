@@ -54,7 +54,7 @@ package in.mecw.entity;
 		 public void setDuration(int duration) {
 			 this.duration = duration;
 		 }
-		 Course()
+		public Course()
 		 {
 			 
 		 }
